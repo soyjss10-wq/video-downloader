@@ -1,16 +1,1 @@
-{
-  "version": "1.1.1",
-  "download_url": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest",
-  "release_notes": {
-    "new_features": [],
-    "improvements": [
-      "⚡ ធ្វើបច្ចុប្បន្នភាព Selenium សម្រាប់ Chrome អំណោយផល",
-      "⚡ ការគាំទ្រកាន់តែប្រសើរសម្រាប់ Kuaishou"
-    ],
-    "bug_fixes": [
-      "🐛 ជួសជុលបញ្ហា 'No module named selenium.webdriver.chrome.options'",
-      "🐛 ជួសជុលបញ្ហាក្នុងការបើក Browser សម្រាប់ Facebook/Kuaishou",
-      "🐛 កែលម្អការ import Selenium modules"
-    ]
-  }
-}
+"download_url": "https://github.com/soyjs10f-wq/video-downloader/releases/latest",
